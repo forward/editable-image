@@ -1,6 +1,5 @@
 require File.dirname(__FILE__) + '/../lib/editable-image'
 require 'test/unit'
-require 'shoulda'
 
 
 class PicnikTest < Test::Unit::TestCase
